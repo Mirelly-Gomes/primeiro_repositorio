@@ -10,4 +10,9 @@
 - [x] Acessando conta no Github 
 - [x] Criar repositório local
 - [x] Criar repositório Github
-- [ ] Estudar fork
+- [x] Executar comando push
+- [x] executar comando pull
+- [x] resolver conflito em merge
+- [x] criar issue
+- [x] Estudar fork
+
