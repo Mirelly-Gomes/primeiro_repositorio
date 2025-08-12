@@ -4,9 +4,9 @@
 
  `git commit -m "Olá Mundo!"`
 
-- [ ] Instalar Git na máquina
-- [ ] Revisar comandos Unix
-- [ ] Comandos básicos git
-- [ ] Acessando conta no Github 
-- [ ] Criar repositório local
-- [ ] Criar repositório Github
+- [x] Instalar Git na máquina
+- [x] Revisar comandos Unix
+- [x] Comandos básicos git
+- [x] Acessando conta no Github 
+- [x] Criar repositório local
+- [x] Criar repositório Github
